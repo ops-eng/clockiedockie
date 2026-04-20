@@ -10,6 +10,8 @@ Clockie Dockie keeps the time exactly where your eyes already are — the Dock.
 
 It’s simple. It’s delightful. It’s surprisingly useful.
 
+![App Screenshot](images/AppStore-DockIcon.png)
+
 ---
 
 ## ✨ Why Clockie Dockie Exists
@@ -18,6 +20,8 @@ macOS doesn’t let you put a clock in the Dock.
 Clockie Dockie fixes that — with style.
 
 Whether you’re working full‑screen, using multiple displays, or just prefer a minimalist menu bar, Clockie Dockie gives you a **persistent, glanceable clock** that stays visible no matter what you’re doing.
+
+![App Screenshot](images/AppStore-Languages.png)
 
 ---
 
