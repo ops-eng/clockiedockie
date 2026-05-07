@@ -1,5 +1,14 @@
-# 🕒 Clockie Dockie for macOS  
+# 🕒 Clockie Dockie for macOS 
+
 ### A Beautiful, Minimal, Always‑Visible Clock for Your Dock
+
+
+<a href="https://apps.apple.com/lu/app/clockiedockie/id6762563389?mt=12&itscg=30200&itsct=apps_box_badge&mttnsubad=6762563389" style="display: inline-block;">
+    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1776988800" alt="Download on the App Store" style="width: 246px; height: 82px; vertical-align: middle; object-fit: contain;" />
+    </a>
+
+---
+
 
 Clockie Dockie is a tiny, elegant macOS utility that does one thing — and does it perfectly:  
 **it puts a clean, readable, customizable clock right in your Dock.**
